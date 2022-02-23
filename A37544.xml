@@ -1,0 +1,311 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An answer of the committee of seventeen representing the East-India Company of the Netherlands given into the States General of the United Provinces in answer to two memorials, the one given by Mr. Chudley, envoy of His Majesty of Great Brittain, and the other given by Mr. Chardyn, touching the affairs of Bantham.</title>
+            <author>Nederlandsche Oost-Indische Compagnie.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1683</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37544</idno>
+            <idno type="STC">Wing E100</idno>
+            <idno type="STC">ESTC R25570</idno>
+            <idno type="EEBO-CITATION">09015966</idno>
+            <idno type="OCLC">ocm 09015966</idno>
+            <idno type="VID">42246</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37544)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 42246)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1282:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An answer of the committee of seventeen representing the East-India Company of the Netherlands given into the States General of the United Provinces in answer to two memorials, the one given by Mr. Chudley, envoy of His Majesty of Great Brittain, and the other given by Mr. Chardyn, touching the affairs of Bantham.</title>
+                  <author>Nederlandsche Oost-Indische Compagnie.</author>
+               </titleStmt>
+               <extent>1 sheet (2 p.)   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Paul Matthowson by order of the Governors of the Dutch East-India Company and reprinted by Langley Curtis,</publisher>
+                  <pubPlace>Amsterdam :</pubPlace>
+                  <date>[1683?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Nederlandsche Oost-Indische Compagnie.</term>
+               <term>Indonesia --  History --  1478-1798.</term>
+               <term>Netherlands --  Foreign relations --  Great Britain.</term>
+               <term>Great Britain --  Foreign relations --  Netherlands.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:42246:1" rendition="simple:additions"/>
+            <head>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n Anſwer of the Committee of Seventeen, Repreſenting the <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>AST-INDIA</hi> Company of the <hi>NEATHERLANDS,</hi> given into the States <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eneral of the United Provinces; In Anſwer to Two Memorials, the one given by Mr. <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hudley,</hi> Envoy of His Majeſty of <hi>Great Brittain,</hi> and the other given in by Mr. <hi>Char<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yn,</hi> touching the Affairs of <hi>BANTHAM.</hi>
+            </head>
+            <head type="sub">To the High and Mighty Lords, the States General of the Vnited Provinces.</head>
+            <opener>
+               <salute>High and Mighty Lords,</salute>
+            </opener>
+            <p>THE Committee of Seventeen, Repreſenting the General <hi>Dutch Eaſt-India</hi> Company, in Obedience to a Letter from your Lordſhips, dated the <hi>8th.</hi> of <hi>June,</hi> We have met in the <hi>Hague,</hi> and haveſeen, read, and Examined two Propoſitions, the one by Mr. <hi>Cha<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ley,</hi> Extraordinary Envoy from His Majeſty of <hi>Great-Brittain,</hi> which was firſt given by him by Word of mouth, and then in Writing, on the <hi>25th.</hi> of laſt <hi>May:</hi> Th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> deſivered to the Deputies of your Lordſhips, firſt by word of mouth, and then in Writing, on the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of <hi>June</hi> laſt, by Mr. <hi>Chardyn,</hi> which agreed with the aforeſaid Propoſition of Mr. <hi>Chudley,</hi> in which Complains, That the Servants of this Company at <hi>Bavaria,</hi> have Outragiouſly and with force, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ven the <hi>Engliſh</hi> Factors and others of that Nation, from <hi>Bantam;</hi> to which there are alſo other <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>: And that they deſire your Lordſhips to withdraw your Garriſon out of <hi>Bantum;</hi> As alſo, to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Reparation of what Damages the Subjects of the aforeſaid King have ſuſtained in that Attack: <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Propoſitions of <hi>Chardin;</hi> Kt. contain a Relation of ſeveral Attacks and particular Crimes <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> by our Nation there: Upon which, your Lordſhips, by your Letters on the aforeſaid <hi>2d. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> June,</hi> command Inſpection into that Affair by this Committee, with due Reſpects we acquaint your <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rdſhips, That as we came to compare theſe Complaints, with Letters and other Evidences, that <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Company has received out of the <hi>Indies,</hi> it appears by Eſſential and Notable Evidences, That the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mplaint of the <hi>Engliſh</hi> Company is Frivilous, and that inſtead of Complaints, they ought to own <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>emſelves obliged in the higheſt to our Company, for the many Friendſhips, good Offices, and Aſſiſtance <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at they have given and ſhewn in this Juncture of Affairs to them, as it is well known to the <hi>Engliſh</hi> Com<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>y in the <hi>Indies,</hi> and they have not failed to acknowledge it: And if pretences of Damages be made, this <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ompany has alſo ſomewhat to ſay on their part; as alſo no ſmall Pretences to make, and to lay all <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ain naked to view, and to ſhew the groundleſsneſs of the aforeſaid Complaints and Demands ariſing <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ence, it's neceſſary therefore to be brief; Be it known, 'tis not the firſt time this Company ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> had <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uarrels, nay, open War with <hi>Bantam.</hi> The <hi>Sultan,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> of this preſent King, poſſeſſed with an <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mbitious Spirit, has not only at divers times injured others of his Neighbours, but alſo has uſed ſe<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eral Outragious Violences, and made open War upon our Subjects of <hi>Bavaria</hi> at ſeveral times, parti<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>larly in the Years 1657, 58, 59, the which War was ended in 1659, by a Treaty of Peace, <hi>&amp;c.</hi> A<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ongſt which Articles was inſerted, a Rule to be obſerved by thoſe two Nations, by the aforeſaid <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eace, was in a ſhort time broke by the aforeſaid Prince; firſt by Debauching, carrying away, and de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ining of our Slaves, to a great number: after which, they went directly againſt Treaty, by detain<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>g Free Inhabitants, nay Servants of the Company; and further, fell in a Hoſtile manner on our <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>illages, Burning them anda Plundering them, and carryed away Men and Cattle; they alſo <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ell upon them by Water, both by Sea and on the Shore; they ſet upon our Sloops and Boats, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd threw the people over-board into the Sea, ſo Murdering them: They alſo fell upon the <hi>
+                  <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ompt<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ir</hi> of the Company at <hi>Andrigry,</hi> upon the <hi>Sumatra,</hi> by Night, and did likewiſe Murder <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur Factors, among which, was the head Officer; they went ſo far, that the Prince aforeſaid, the more <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o ſtir up his Subjects to Murder and Pillage, he ſet a <hi>Premium</hi> of 20 pieces of Eight for every Head of <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Netherlander,</hi> and 10 pieces of Eight for the Head of each other Inhabitant of <hi>Bavaria,</hi> and not<g ref="char:EOLhyphen"/>withſtanding our continual Complaint, he deferred to Right us, but at laſt inſolently told us, If we protected our Neighbours, which we were highly oblieg'd to do, he would declare War againſt us; and although our General and Counſel thought and wrote in Letters to us expreſſed, that they thought they ought to pay thoſe of <hi>Bantam</hi> in the ſame Coin, which demonſtrating the impoſſibility of bearing any longer the Injuries, Damages, and Offences, and keep Peace, where Ungodly Neighbours ſought a War, yea, ſufficiently did exerciſe it; ſo that they were forced to put themſelves to as great a Charge to put themſelves into a poſture of Defence, but they were ſtill dehorted from it, not ſo much out of fear that they could not ſucced in it againſt them, as ſo long as there was any hope of an Accomodati<g ref="char:EOLhyphen"/>on, the Company could not get any advantage, although they got the better: As alſo, that the <hi>Euro<g ref="char:EOLhyphen"/>pean</hi> Nations, eſpecially the <hi>Engliſh,</hi> might not be damaged and diſturbed; which Order was punctually obſerved by our General and Counſel there; nay, after the War in the Territories of <hi>Mattaram,</hi> in which the Company had brought the <hi>Souſouhounany</hi> Triumphantly off againſt his Rebels, which were aſſiſted by the <hi>Bantamers,</hi> and by that means were in a good ſtate to Revenge themſelves as they would deſire. The Caſe ſtanding thus, and the old King ſearing he ſhould be requited for his Outrages, it fell unexpectedly out, that on the of <hi>May,</hi> 80. two Ambaſſadors came from <hi>Bantam</hi> to <hi>Bavaria</hi> with a Train of 300 Perſons and <hi>Credentials,</hi> from the young King, in which only his own Name was inſert<g ref="char:EOLhyphen"/>ed; whereupon ſome Reflections being made, the Ambaſſadors declared, That 7 days before the old <hi>Sultan</hi> Reſigned up his whole Empire to his Eldeſt Son, the aforeſaid young King, and that according to Cuſtom in thoſe Countries (at the change of Governors) they were come to renew their old Alliance and to Treat of Peace; and although the Reſident of the Company at <hi>Bantam,</hi> came with them to
+<pb n="2" facs="tcp:42246:2" rendition="simple:additions"/>
+Confirm it; yet all Scruples ariſing from ſuch an unexpected Providence, not being taken away, one <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the aforeſaid Ambaſſadors returned to <hi>Bantam,</hi> from whence he brought more Satisfactory Evidences<g ref="char:punc">▪</g> Upon which, the Treaty began, although all old Contracts had been violated and broken, and all man<g ref="char:EOLhyphen"/>ner of Hoſtillities both by Water and Land, were acted againſt us, for which we demanded Satisfact<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>on in very moderate Terms, that it might appear we ſought nothing but a continuation of the <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Friendſhip: Upon which demands, the Ambaſſadors owned they were Convinced of the Injury do<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>us; but declared, they had no Orders to Treat about them, as being things done in the Reign of th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Old King, ſaying, <hi>They were come only to Renew the Old League, and if there were any other Demands th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> muſt Addreſs themſelves to the King their Maſter at</hi> Bantam: Our Envoys were thereupon ſent to <hi>Ba<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>tam</hi> to demand Satisfaction as aforeſaid, but Excuſes were made to decline the ſame, and 'twas pro<g ref="char:EOLhyphen"/>poſed notwithſtanding to continue a good undertaking and Neighbourhood; in Conformity to which the aforeſaid King forbid his Subjects (by <hi>Drum beat</hi>) not to do any Injury to our Subjects (upon grea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Penalty) either by Water or by Land; further promiſing us, to reſtore all our <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ugitives, either Free men or Slaves: Further ſhewing us, That it would be acceptable to him if we Complemented th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> former King his Father, which they did, and he recommended it to them to hold a good Alliance an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Neighbourhood with his Son: And it appears clearly, that the young King has ſince, only in <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> own Name, exerciſed Regal Authority, by his ſending Ambaſſadors to <hi>England</hi> in 1681. and alſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by the old Kings withdrawing from <hi>Bantam</hi> the Regal City; And further, by the Addreſſes made b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> other Nations to the young King, as alone in Regal Authority: And 'tis well known, the Father wa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> onely a private prince, and had reſerved no part of the Soveraign Regallity of <hi>Bantam:</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> to what was Negotiated with the <hi>BANTAM</hi> Ambaſſadors in <hi>ENGLAND,</hi> we ca<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſay nothing poſitively, but the World knows they were at their Departure, furniſhed with a grea<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> quantity of Canon, and other Warlike Ammunitions, which the <hi>Engliſh Eaſt-India</hi> Company preſent<g ref="char:EOLhyphen"/>ed; and that it's an old and ſubſtantial Complaint of our people at <hi>Bavaria,</hi> That the Old King o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <hi>Bantam,</hi> has been ſeveral times furniſhed in the like manner from <hi>England,</hi> and he has been more an<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> more animated thereby againſt us. After the ſettleing of the aforeſaid Alliance with <hi>Bantam,</hi> ther<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> happened in that Kingdom, great Factions and Diviſions, as alſo great Jealouſies aroſe between th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Young and Old King; the Son complaining of the Actions of the Father, and the Father of the Sons inſomuch that it ſeems the Father Repented his reſigning up of the Kingdom to his Son. Now being in a private Capacity, began to Cabal againſt the Son, and to make a Party, inſomuch that they ſtrength<g ref="char:EOLhyphen"/>ened themſelves againſt each other; The Son at <hi>Bantam</hi> makes a Fortification, and the Father builds <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Stone Work at his Reſidence at <hi>Turtiaſſa,</hi> as alſo one on the River <hi>Tanara;</hi> which Fire, after a whil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> lying ſmothering, at laſt broke out into a light flame, and came to an open War, ſo that the Fathe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Marches againſt the Son with the Forces he had gathered: and in the firſt place he took in <hi>Bantam</hi> and waſted and burnt it, and proceeded to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> himſelf Maſter of the whole Shoar, and the Forts upon it, as alſo of all the Paſſes, deſigning to force his Son in the aforeſaid Fortreſs, and ſet a younger Son on the Throne.</p>
+            <p>The preſent King being brought to the outmoſt Extremity, by reaſon there was no acceſs to him, but by thoſe wel<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> skilled in the ways, and that by ſtealth, he applyed himſelf to thoſe of <hi>Bavaria,</hi> with earneſt intreaty for aſſiſtance from the Companies, and to be taken into their Protection; declaring, without it he was not able to defend the <hi>Neatherland</hi> Lodge again<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> his Rebells; which Application being made on the <hi>10th.</hi> of <hi>February,</hi> 1682. was not Precipitately granted by the General, and Council; but after long Deliberations it was reſolved, to ſend a Friendly Mediation both to Father and Son; and two Letters were ſent to Father and Son, by Major <hi>Stephen Martin,</hi> on the <hi>16th.</hi> of <hi>March,</hi> to <hi>Bantam,</hi> but the Father would not re<g ref="char:EOLhyphen"/>ceive them till the <hi>17th.</hi> and then ſent for them by <hi>Engliſh, French,</hi> and <hi>Danes,</hi> but vouchſafed no Anſwer holding. The afore<g ref="char:EOLhyphen"/>ſaid King in the mean time in the aforeſaid Caſtle cloſer and c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>oſer beſieged, ſo that Major <hi>Stephen Martin</hi> was obliged by many Letters from the Young King, to endeavour to Land, as being the only means to free him, but was oppoſed and hindred that day by the Rebels, whoſe Canons were moſt Traverſed by <hi>Engliſh</hi> Canonneirs, and did much Damage both to the Ships and Men, of the <hi>Dutch</hi> Company; upon which the aforeſaid <hi>Stephen Martin</hi> being reinforced with more Men and Ships, as alſo Orders to attempt again to Land, and releive the King, that was in the outmoſt Extremity; and at laſt, on the <hi>7th.</hi> of <hi>April,</hi> they b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at off the Rebels for all the great reſiſtance they made, and releived the King, and took in the Paſſes, with no ſmall loſs upon the of <hi>Bavaria;</hi> the Enemy ſhewed themſelves in Acts of Hoſtiltiy, but they had ſuch Reception, as made them March off in diſorder, with the loſs of which Actions under the Command of the aforeſaid King, laſted till <hi>November</hi> laſt, according <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o our laſt Advice, which has been very chargeable to our Company. But at laſt the Old King and his Adherents were driven into <hi>Turtiaſſa,</hi> and the Hills Adjacent. Few days after the relief of the Young King, the <hi>Engliſh</hi> Company reſiding at <hi>Bantha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> ſent Letters by ſome of their Company, Addreſſed to the General, and Council at <hi>Bavaria;</hi> and after Congratulati<g ref="char:EOLhyphen"/>on of our ſucceſs, deſtred them to lend them a Ship of 500 Tun, to fetch off, and Tranſport their E<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ects from <hi>Bantam,</hi> for which they offered to pay the Fraight. They alſo deſired Liberty to hire a Houſe in <hi>Batavia,</hi> to put their Goods in; and further, That they would give Orders the Servants of the Company, to Comport themſelves according to the uſual Love and Friendſhip of the <hi>Dutch,</hi> towards them. Upon which the Generals and Council, to ſhew their readineſs and kindneſs, immediately lent them the <hi>Europe,</hi> a Ship of 1200 Tuns, and alſo allowed their Retreat to <hi>Batavia;</hi> thereupon they fearing to ſtay in <hi>Bantam</hi> any longer, with all ſecrecy Shiped themſelves on Board the <hi>Return,</hi> without taking leave of the King, and retired to <hi>Bavaria,</hi> on the <hi>18th.</hi> of <hi>April,</hi> leaving the groſs of their Effects in <hi>Bantam;</hi> to-fetch which, there were three other Ships ſent, <hi>viz.</hi> The new <hi>Midlburg,</hi> the <hi>Went,</hi> and the great <hi>Fly-Boat, Delphs-Haven;</hi> all which, with ſome of the <hi>Engliſh</hi> Company that were neceſſary to Ship the Goods, and enter them, returned to <hi>Bavaria,</hi> full Loaden with Peper, <hi>&amp;c.</hi> As alſo the Houſhold ſtuff of the aforeſaid Company, to <hi>Bavaria;</hi> all which they could not have done, unleſs the <hi>Dutch</hi> Company had not interceeded with the King, and helped them: for that King and People were ſo ſet againſt them, that they could not get a Boat, nor a Porter to help Ship their Goods, but all was <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lone by help of the <hi>Dutch;</hi> the King being greatly Incenſed at the Conduct of the <hi>Engliſh,</hi> as to himſelf, and was greatly wondered that the <hi>Dutch</hi> Companies ſhould ſpeak in their favour, or be helpful to them, by reaſon 'twas apparent, they by their Ar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in Traverſeing Guns, did moſt hurt to our Ships, as well as the <hi>Boſtil.</hi> The <hi>Dutch</hi> Company alſo ſuſtained great loſs for want of four Ships ſo long; and although the <hi>Engliſh</hi> were obliged to give us our Ships ſooner, eſpecially when they had other Ships of their own from ſeveral Quarters, beſides two <hi>Engliſh</hi> Ships belonging to particular perſons, that were earneſt<g ref="char:EOLhyphen"/>ly deſired by the <hi>Dutch</hi> Company, to Ship the aforeſaid Goods: But the <hi>Engliſh</hi> imployed their Ships in other Expeditions, and let our Ships lye Loaden with their Effects and Lumber, before <hi>Bavaria.</hi>
+            </p>
+            <p>The matter of fact being layed down in the aforeſaid Relation, we refer it to the Wiſdome of your High and Mighty Lord<g ref="char:EOLhyphen"/>ſhips, to conſider, whether or no there be any Foundation for ſuch ſevere Complaints, and Demands of ſatisfaction for Dam<g ref="char:EOLhyphen"/>mages and injuries ſuſtained; as alſo to withdraw our Troops from thence.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Amſterdam,</hi> Printed by <hi>Paul Matthowſon,</hi> by Order of the Governors of the <hi>Dutch Eaſt-India</hi> Company, and Reprinted by <hi>Langely Curtis,</hi> at the Sign of <hi>Sir Edmund-bury Gadfrey's</hi> Head, near <hi>Fleet-Bridge:</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
